@@ -1,4 +1,4 @@
-*/
+/*
 https://platform.stratascratch.com/coding/10077-income-by-title-and-gender?code_type=1
 
 Income By Title and Gender
